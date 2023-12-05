@@ -13,7 +13,18 @@ const questions = [
   {
     type: "input",
     name: "description",
-    message: "add description",
+    message:
+      "Provide a short description explaining the what, why, and how of your project.",
+  },
+  {
+    type: "input",
+    name: "installation",
+    message: "What are the steps required to install your project?",
+  },
+  {
+    type: "input",
+    name: "usage",
+    message: "Provide instructions and examples for use. ",
   },
 ];
 
