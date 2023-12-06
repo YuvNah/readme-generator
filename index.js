@@ -26,6 +26,11 @@ const questions = [
     name: "usage",
     message: "Provide instructions and examples for use. ",
   },
+  {
+    type: "input",
+    name: "credit",
+    message: "Who worked on this project?",
+  },
 ];
 
 // TODO: Create a function to write README file
