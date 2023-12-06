@@ -1,9 +1,12 @@
-# test readme
+# Test file 
   ## Description 
-  a short description of the application 
-  ## Insalation 
-  undefined
+  short description
+  ## Installation 
+  explain here
   ## Usage 
-  follow the prompts
+  follow steps
+  ## Credits 
+  name project people
+  ## License
   
-
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)] (https://opensource.org/licenses/MIT)

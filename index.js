@@ -31,6 +31,11 @@ const questions = [
     name: "credit",
     message: "Who worked on this project?",
   },
+  {
+    type: "input",
+    name: "license",
+    message: "What license are you using?",
+  },
 ];
 
 // TODO: Create a function to write README file

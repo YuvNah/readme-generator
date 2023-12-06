@@ -8,3 +8,9 @@ A command-line application that dynamically generates a professional README.md f
 
 You can quickly and easily create a README file by using a command-line application to generate one.
 Answer the promt questions as they come to generate your file.
+
+![alt text](assets/image.png)
+
+## Github Link
+
+https://github.com/YuvNah/readme-generator
